@@ -1,0 +1,14 @@
+/* 通用样式开始 */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 居中 */
+.wrap{
+    width: 1226px;
+    margin: 0 auto;
+}
+a{text-decoration: none;color: black;}
+ul>li{
+    list-style: none;
+}

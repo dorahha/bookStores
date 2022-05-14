@@ -1,0 +1,35 @@
+.login{
+    padding-top: 20px;
+    width: 660px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 150px;
+    background-color: rgb(252, 230, 203);
+    opacity: .7;
+}
+.login>.loginTitle{
+   
+    display: block;
+    margin-top: 25px;
+    font-size: 50px;
+    /* 加粗 */
+    font-weight: bold;
+    text-align: center;
+}
+.loginBox{
+    
+    margin: 0 auto;
+    margin-top: 35px;
+    /* text-align: center; */
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.loginBack{
+    display: block;
+    float: right;
+    font-size: 18px;
+    margin-top: 140px;
+    margin-right: 20px;
+}
